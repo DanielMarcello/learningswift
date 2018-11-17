@@ -4,7 +4,7 @@ import UIKit
 //mutable
 var name = "Daniel"
 //constant
-let number = 123
+let number = 123*2*3
 
 name = "Marcello"
 //number = 345 //Error. Cannot change constant variable
