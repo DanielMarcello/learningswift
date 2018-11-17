@@ -35,3 +35,9 @@ nameList.append("New Name")
 nameList.first
 nameList.last
 nameList.remove(at: nameList.count-1)
+
+//dictionary
+var myDict = ["water":"blue", "sun":"yellow", "grass":"green"]
+myDict["water"]
+myDict["flower"] = "red"
+myDict
